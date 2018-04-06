@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="png/icon.png" width="100">
+  <img src="PNG/icon.png" width="100">
 </p>
 
 # Runway Design
