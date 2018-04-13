@@ -4,6 +4,6 @@
 
 # Runway Design
 
-Design explorations and resources.
+Design resources.
 
 Icon designed by [Anton](https://thenounproject.com/parkasever/), from the Noun Project.
