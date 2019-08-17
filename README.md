@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="svg/logo.svg" height="100">
+	<img src="assets/logo.svg" height="100">
 </p>
 
 # Runway Design Resources
