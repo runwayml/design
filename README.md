@@ -4,7 +4,7 @@
 
 # Runway Design Resources
 
-[![License](https://img.shields.io/github/license/runwayml/design.svg?style=flat&colorA=1c1c1c&colorB=33b279)](https://runwayml.com)
+[![License](https://img.shields.io/github/license/runwayml/design.svg?style=flat&colorA=1c1c1c&colorB=33b279)](LICENSE)
 
 ## Colors
 
